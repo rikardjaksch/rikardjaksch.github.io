@@ -4,9 +4,13 @@
 		<title>A test</title>
 	</head>
 
+	{% include meta.html %}
+
 	<body>
 		<div>
 			{{ content }}
 		</div>
+
+		{% include analytics.html %}
 	</body>
 </html>
