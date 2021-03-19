@@ -1,3 +1,5 @@
+name: Rikard Jaksch
+description: Small Blog
 permalink: /:title/
 markdown: kramdown
 
