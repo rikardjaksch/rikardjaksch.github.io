@@ -10,4 +10,10 @@ body {
     background-color: $bg-color;
     color: $main-color;
     font-family: 'Roboto Mono', monospace; margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    line-height: 2em;
+    font-size: 0.9em;
 }
+
+.container { margin-right: auto;  margin-left: auto; }
