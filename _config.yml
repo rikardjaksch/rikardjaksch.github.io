@@ -1,14 +1,5 @@
-name: Rikard Jaksch
-description: Small test blog
-
-
 permalink: /:title/
-version: v1.2.0
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+markdown: kramdown
 
 sass:
-  style: :expanded # :compressed
+  style: :compact
